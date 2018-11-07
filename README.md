@@ -1,5 +1,10 @@
 # DOGVCAT
 Image classification on dogs vs cats data
+# Dependencies
+1. Tensorflow or Theano as backend
+2. I have sued Keras with tensorflow as backend
+3. Numpy
+4. Matplotlib
 # SetUp
 1. Install dependencies by ! pip install <-dependency->
 2. Install data from https://www.kaggle.com/c/dogs-vs-cats
