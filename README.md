@@ -2,7 +2,7 @@
 Image classification on dogs vs cats data
 # Dependencies
 1. Tensorflow or Theano as backend
-2. I have sued Keras with tensorflow as backend
+2. I have used Keras with tensorflow as backend
 3. Numpy
 4. Matplotlib
 # SetUp
